@@ -1,0 +1,13 @@
+
+.user{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button{
+    background-color: rgb(73, 167, 135);
+    color: black;
+}
